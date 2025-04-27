@@ -1,0 +1,23 @@
+{
+    "name": "shivmonokai",
+    "displayName": "Monokai Classic Theme",
+    "description": "A custom Monokai Classic theme for VSCode.",
+    "version": "0.0.1",
+    "publisher": "shiv",
+    "engines": {
+      "vscode": "^1.70.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "Shiv Monokai",
+          "uiTheme": "vs-dark",
+          "path": "./theme.json"
+        }
+      ]
+    }
+  }
+  
